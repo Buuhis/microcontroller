@@ -1,1 +1,1 @@
-should run this code in codevisionAVR or another software  
+should run this code in codevisionAVR or another software (it's up to you)  
