@@ -1,0 +1,7 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"hien_thi_nhiet_do.c" LINE:30
+uart_string_send DSTACK_USAGE:4 DSTACK_LEVEL:4 FILE:"hien_thi_nhiet_do.c" LINE:141
+strlen DSTACK_USAGE:2 DSTACK_LEVEL:6 FILE:"D:\app_hoctap\CvAVR\CVAVR 2.05.0\Crack\cvAVR\lib\string.lib" LINE:1707
+usart_rx_isr DSTACK_USAGE:13 DSTACK_LEVEL:19 FILE:"hien_thi_nhiet_do.c" LINE:177
+check_string DSTACK_USAGE:2 DSTACK_LEVEL:21 FILE:"hien_thi_nhiet_do.c" LINE:200
+floor DSTACK_USAGE:4 DSTACK_LEVEL:25 FILE:"D:\app_hoctap\CvAVR\CVAVR 2.05.0\Crack\cvAVR\lib\math.lib" LINE:659
+ftrunc DSTACK_USAGE:4 DSTACK_LEVEL:29 FILE:"D:\app_hoctap\CvAVR\CVAVR 2.05.0\Crack\cvAVR\lib\math.lib" LINE:544

@@ -1,0 +1,21 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+ticks                                                             0x01FE       2
+tram                                                              0x0200       4
+chuc                                                              0x0204       4
+dvi                                                               0x0208       4
+adc_out                                                           0x020C       4
+nhiet_do                                                          0x0210       4
+receivedData                                                      0x0214      20
+_seed                                                             0x0228       4
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+count                                                             R4,R5        2
+index                                                             R6,R7        2
